@@ -29,7 +29,6 @@ const getRulesList = () => [{
 
     setCurrentColor(newColor);
 
-    this.result = true;
     R.stop();
   },
 }, {
@@ -46,7 +45,6 @@ const getRulesList = () => [{
 
     setCurrentColor(newColor);
 
-    this.result = true;
     R.stop();
   },
 }, {
@@ -63,7 +61,6 @@ const getRulesList = () => [{
 
     setCurrentColor(newColor);
 
-    this.result = true;
     R.stop();
   },
 }]
@@ -78,15 +75,17 @@ const getFact = () => ({
 })
 
 const fireTimerEvent = function() {
-  R.execute(getFact(), (data) => {
-    console.log(currentColor)
-    updateDOM();
-
+  return new Promise((resolve) => {
+    R.execute(getFact(), () => {
+      resolve()
+    })
   })
 }
 
 const buttonClickListener = function(e) {
-  fireTimerEvent();
+  fireTimerEvent().then(() => {
+    updateDOM();
+  });
 }
 
 const addEventToButton = () => {
