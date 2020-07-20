@@ -2,29 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c26ea37-9dea-4862-b034-ecbd6807c076" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/green-light.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/red-light.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/yellow-light.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/green-light.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/red-light.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/yellow-light.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/appState/appState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/colors/colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/dom/addListeners.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/dom/updateDom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/fact/facts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/fact/getFact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/ruleEvents/fireRuleEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/ruleEvents/ruleEventNames.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/rules/getRulesList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/rules/rules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/directions/directions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/dist/bundled.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/dist/bundled.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/dist/bundled.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/appState/appState.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/appState/appState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/dom/addListeners.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/dom/addListeners.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/dom/updateDom.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/dom/updateDom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/fact/facts.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/fact/facts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/fact/getFact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/rules/getRulesList.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/rules/getRulesList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +71,7 @@
       <updated>1595142897045</updated>
       <workItem from="1595142899274" duration="4889000" />
       <workItem from="1595264167970" duration="37000" />
-      <workItem from="1595270990250" duration="4587000" />
+      <workItem from="1595270990250" duration="6843000" />
     </task>
     <servers />
   </component>

@@ -6,23 +6,17 @@ import {
 
 const getImgElSrc = (color) => `${color}-light.jpg`;
 
-const updateEastToWest = () => {
+export const updateDomEastToWest = () => {
   const color = getEastToWestColor();
   const imgEl = document.querySelector('#eastToWest');
 
   imgEl.src =  getImgElSrc(color);
 }
 
-const updateNorthToSouth = () => {
+export const updateDomNorthToSouth = () => {
   const color = getNorthToSouthColor();
   const imgEl = document.querySelector('#northToSouth');
 
   imgEl.src =  getImgElSrc(color);
 }
 
-const updateDom = () => {
-  updateEastToWest();
-  updateNorthToSouth()
-}
-
-export default updateDom;

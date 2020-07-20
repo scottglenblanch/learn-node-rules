@@ -1,10 +1,7 @@
-import updateDom from './updateDom';
 import { fireTriggerTimer } from '../ruleEvents/fireRuleEvent';
 
 const buttonClickListener = function(e) {
-  fireTriggerTimer().then(() => {
-    updateDom();
-  });
+  Promise.resolve(fireTriggerTimer());
 }
 
 const getButtonElement = () => document.body.querySelector('#button');
