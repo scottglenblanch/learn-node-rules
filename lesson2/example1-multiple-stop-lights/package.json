@@ -9,7 +9,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "start": "export PORT=8000 && npm run build && cp -R public/* dist && http-server ./dist --port=${PORT}"
+    "start": "export PORT=9201 && npm run build && cp -R public/* dist && http-server ./dist --port=${PORT}",
+    "docker-build": "./docker/scripts/host/create-image.sh",
+    "docker-run": "./docker/scripts/host/run-container.sh"
   },
   "devDependencies": {
     "webpack": "^4.43.0",

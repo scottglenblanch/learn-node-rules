@@ -1,7 +1,14 @@
-import {GREEN_COLOR, RED_COLOR, YELLOW_COLOR} from '../colors/colors';
+import {
+  GREEN_COLOR,
+  RED_COLOR,
+  YELLOW_COLOR
+} from '../colors/colors';
 import { TIMER_EVENT } from '../ruleEvents/ruleEventNames';
 
-import { DIRECTION_EAST_TO_WEST, DIRECTION_NORTH_TO_SOUTH } from '../directions/directions';
+import {
+  DIRECTION_EAST_TO_WEST,
+  DIRECTION_NORTH_TO_SOUTH
+} from '../directions/directions';
 
 const rulesList = [
 // north to south
