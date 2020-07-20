@@ -1,5 +1,5 @@
 {
-  "name": "example1",
+  "name": "learn-node-rules-lesson-2-example1",
   "version": "0.0.1",
   "description": "X State Tutorial",
   "main": "./src/index.js",

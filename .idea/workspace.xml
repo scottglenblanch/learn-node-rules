@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c26ea37-9dea-4862-b034-ecbd6807c076" name="Default Changelist" comment="" />
+    <list default="true" id="9c26ea37-9dea-4862-b034-ecbd6807c076" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/green-light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/red-light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public/yellow-light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/green-light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/red-light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public/yellow-light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/appState/appState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/colors/colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/dom/addListeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/dom/updateDom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/fact/facts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/fact/getFact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/ruleEvents/fireRuleEvent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/ruleEvents/ruleEventNames.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/rules/getRulesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/rules/rules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/dist/bundled.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/example1-basic-stoplight/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -34,6 +59,17 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/rules" />
+      <recent name="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/src/events" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson1/example1-basic-stoplight/public" />
+      <recent name="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights/public" />
+      <recent name="$PROJECT_DIR$/lesson2/example1-multiple-stop-lights" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,7 +81,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595142897045</updated>
-      <workItem from="1595142899274" duration="4584000" />
+      <workItem from="1595142899274" duration="4889000" />
+      <workItem from="1595264167970" duration="37000" />
+      <workItem from="1595270990250" duration="4587000" />
     </task>
     <servers />
   </component>
@@ -53,9 +91,21 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2698" y="-443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595271418782">
+      <screen x="1680" y="-905" width="2560" height="1417" />
+    </state>
+    <state x="2698" y="-443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.-905.2560.1417/0.23.1680.1027@1680.-905.2560.1417" timestamp="1595271418782" />
+    <state x="2661" y="-442" width="656" height="490" key="find.popup" timestamp="1595275451137">
+      <screen x="1680" y="-905" width="2560" height="1417" />
+    </state>
+    <state x="2661" y="-442" width="656" height="490" key="find.popup/1680.-905.2560.1417/0.23.1680.1027@1680.-905.2560.1417" timestamp="1595275451137" />
     <state x="2625" y="-580" width="670" height="676" key="search.everywhere.popup" timestamp="1595145063243">
       <screen x="1680" y="-905" width="2560" height="1417" />
     </state>
     <state x="2625" y="-580" width="670" height="676" key="search.everywhere.popup/1680.-905.2560.1417/0.23.1680.1027@1680.-905.2560.1417" timestamp="1595145063243" />
+    <state x="2690" y="-353" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1595271002773">
+      <screen x="1680" y="-905" width="2560" height="1417" />
+    </state>
+    <state x="2690" y="-353" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1680.-905.2560.1417/0.23.1680.1027@1680.-905.2560.1417" timestamp="1595271002773" />
   </component>
 </project>
